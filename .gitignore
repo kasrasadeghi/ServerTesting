@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/ServerTesting/nbproject/private/
+/ServerTesting/build/
+/ServerTestingClient/nbproject/private/
+/ServerTestingClient/build/
